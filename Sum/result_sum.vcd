@@ -1,0 +1,41 @@
+$date
+	Sat Oct  5 20:12:13 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_sum $end
+$var wire 1 ! z1 $end
+$var wire 1 " res $end
+$var reg 1 # a1 $end
+$var reg 1 $ b1 $end
+$var reg 1 % r1 $end
+$scope module S $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 ! out $end
+$var wire 1 % r $end
+$var wire 1 " res $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1%
+0$
+1#
+1"
+1!
+$end
+#10
+0"
+0!
+0#
+#15
+1"
+1!
+1$
+#20
